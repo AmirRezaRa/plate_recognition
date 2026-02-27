@@ -1,0 +1,6 @@
+virtual/
+*.python
+plate_recognition_yolo/data
+*.pyc
+best.pt
+
